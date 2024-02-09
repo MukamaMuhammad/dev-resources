@@ -187,6 +187,13 @@ export const resources: Resource[] = [
         url: 'https://shoptalkshow.com/',
     },
     {
+    name: 'Shotune',
+    description:
+        'The ultimate online tool to help developers creating stunning and professional screenshots and code snippets.',
+    categories: ['Design', 'Programming'],
+    url: 'https://shotune.com/',
+},
+    {
         name: 'Shutterstock',
         categories: ['Video', 'Image', 'Icon'],
         description:
